@@ -16,7 +16,6 @@ pandas==1.2.4
 pytz==2021.1
 requests==2.25.1
 scikit-learn==0.24.2
-scipy @ file:///C:/ci/scipy_1618856134946/work
 six==1.16.0
 sklearn==0.0
 threadpoolctl==2.1.0
